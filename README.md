@@ -8,8 +8,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Contents
 
-* [Frameworks](#frameworks)
+* [Library Collections](#library-collections)
 * [Libraries](#libraries)
+  * [Embedded programming languages](#embedded-programming-languages)
   * [Data Formats (JSON, CSV, XML, etc.)](#data-formats)
   * [Data Structures (Array-List and Dictionary)](#data-structures)
   * [Math libraries](#math-libraries)
@@ -39,7 +40,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ***
 
-## Frameworks
+## Library Collections
 
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 386 | 🐛 44 | 🌐 VBA | 📅 2026-02-06 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 131 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
@@ -47,21 +48,29 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Libraries
 
+### Embedded programming languages
+
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/VBA-Expressions?style\&logo=github\&label) [VBA Expressions](https://github.com/ECP-Solutions/VBA-Expressions) ⭐ 44 | 🐛 0 | 🌐 VBA | 📅 2026-02-12 - A powerful string expression evaluator focussed on mathematics and data processing.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style\&logo=github\&label) [vb2clr](https://github.com/jet2jet/vb2clr) ⭐ 31 | 🐛 3 | 🌐 VBA | 📅 2023-02-12 - Use C# from VBA using the .NET CLR runtime.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 27 | 🐛 1 | 🌐 VBA | 📅 2026-02-17 - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
+* From Library Collections:
+  * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
+
 ### Data Formats
 
 #### JSON
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-JSON?style\&logo=github\&label) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) ⭐ 2,080 | 🐛 133 | 🌐 Visual Basic | 📅 2024-03-14 - JSON conversion and parsing.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-JSON?style\&logo=github\&label) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) ⭐ 2,082 | 🐛 133 | 🌐 Visual Basic | 📅 2024-03-14 - JSON conversion and parsing.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastJSON?style\&logo=github\&label) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) ⭐ 28 | 🐛 0 | 🌐 VBA | 📅 2025-11-27 - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [mdJSON](https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support) - JSON library with dot-notation for extracting paths.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [JSONBag](https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator) - Uses shebang notation to extract keys from JSON strings. Can also build JSON with this library.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdJSON` - As above.
 
 #### CSV
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-CSV-interface?style\&logo=github\&label) [VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface) ⭐ 82 | 🐛 0 | 🌐 VBA | 📅 2026-02-12 - Powerful, fast and comprehensive RFC-4180 compliant CSV/TSV/DSV data management library.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `Hidennotare` find `csvWriter` and `csvReader`.
 
 #### XML
@@ -82,7 +91,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 #### Array-List
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Senipah/VBA-Better-Array?style\&logo=github\&label) [Better array](https://github.com/Senipah/VBA-Better-Array/tree/master/src) ⭐ 124 | 🐛 10 | 🌐 VBA | 📅 2024-01-20 - An array class providing features found in more modern languages.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) In `VbCorLib` find `ArrayList` - As above.
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdArray` - As above. Also includes methods to search the array or perform checks from a callback.
 
@@ -94,7 +103,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [cHashList](https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-\(no-APIs\)) - Simple, Fast and lightweight HashList class with no use of Win32 API. Requires string keys however.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [CollectionEx](https://www.vbforums.com/showthread.php?834579-Wrapper-for-VB6-Collections) - Extends the default VBA(/VB6) collection with methods to retrieve and check for key existence. <!--TODO: This is listed as p_win, but honestly this might work on mac given the correct API declarations. Would be worth testing, see MemoryTools for Copy Memory declares-->
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) [clsTrickHashTable](https://www.vbforums.com/showthread.php?788247-VB6-Hash-table) - A hash table using machine code injected at runtime. Full replacement for scripting dictionary, with bonus features.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) In `VbCorLib` find `HashTable` - As above.
     <!-- Hidennotare, though it simply wraps Scripting.Dictioanry... -->
 
@@ -136,38 +145,33 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 ### Low level tools
 
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-MemoryTools?style\&logo=github\&label) [VBA-MemoryTools](https://github.com/cristianbuse/VBA-MemoryTools) ⭐ 55 | 🐛 1 | 🌐 VBA | 📅 2024-05-24 - Provides an ultra-fast, copy memory alternative.
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style\&logo=github\&label) [vb2clr](https://github.com/jet2jet/vb2clr) ⭐ 31 | 🐛 3 | 🌐 VBA | 📅 2023-02-12 - Use C# from VBA using the .NET CLR runtime.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-StateLossCallback?style\&logo=github\&label) [VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback) ⭐ 18 | 🐛 3 | 🌐 VBA | 📅 2024-09-05 - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks `end` in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Ariche2/VBAStack?style\&logo=github\&label) [VBAStack](https://github.com/Ariche2/VBAStack) ⭐ 13 | 🐛 1 | 🌐 C# | 📅 2026-02-02 - A library for retrieving VBA callstack information at runtime from Office applications. The author also made a [pure VBA native version](https://www.reddit.com/r/vba/comments/1qrf29m/update_to_vbastack_can_now_work_in_vba6_as_well/).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Greedquest/vbInvoke?style\&logo=github\&label) [Calling private module functions](https://github.com/Greedquest/vbInvoke/tree/main) ⭐ 9 | 🐛 2 | 🌐 VBA | 📅 2024-03-26 - You can also check out [Greedo's code review](https://codereview.stackexchange.com/questions/274532/low-level-vba-hacking-making-private-functions-public).
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Greedquest/vbInvoke?style\&logo=github\&label) [vbInvoke](https://github.com/Greedquest/vbInvoke) ⭐ 9 | 🐛 2 | 🌐 VBA | 📅 2024-03-26 - `Application.Run` but COM based and can call private module methods.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [Safe Subclassing](https://www.mrexcel.com/board/threads/intercepting-resetting-of-vba-editor-as-well-as-unhandled-errors-for-safe-subclassing.1024295/) - Provides the ability to subclass Excel/Word/PowerPoint window or Userforms to perform further automation. In the later threads there is also an example for subclassing other windows from other applications.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) [Universal DLL Calls](http://www.vbforums.com/showthread.php?781595-VB6-Call-Functions-By-Pointer-\(Universall-DLL-Calls\)) - A library which can be used to call functions of any function pointer, DLL or object in both `STDCALL` and `CDECL`.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdCOM` - A one stop shop for COM automation, from invoking interfaces by offsets to extracting type information.
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdReg` - Registry automation from searching to setting values.
 
 ### Parsers / Interpreters
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-Expressions?style\&logo=github\&label) [VBA Expressions](https://github.com/ws-garcia/VBA-Expressions) ⭐ 44 | 🐛 0 | 🌐 VBA | 📅 2026-02-12 - A powerful string expression evaluator focussed on mathematics and data processing.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style\&logo=github\&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) ⭐ 26 | 🐛 0 | 🌐 VBA | 📅 2026-02-15 - Full featured scripting language and runtime with C-like syntax, closures, FFI for VBA calls and native regex support.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sihlfall/vba-regex?style\&logo=github\&label) [vba-regex](https://github.com/sihlfall/vba-regex) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-06 - A native regex expression parser and runtime engine.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Excel-lent/ClooWrapperVBA?style\&logo=github\&label) [ClooWrapperVBA](https://github.com/Excel-lent/ClooWrapperVBA) ⭐ 17 | 🐛 0 | 🌐 C# | 📅 2025-09-16 - Execute OpenCL from VBA, using either the GPU or CPU.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style\&logo=github\&label) [VbPeg](https://github.com/wqweto/VbPeg) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05 - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05 into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls) ⭐ 15 | 🐛 5 | 🌐 Visual Basic | 📅 2019-03-05. Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [Volpi's Math Expression Parser](https://web.archive.org/web/20100703220609/http://digilander.libero.it/foxes/mathparser/MathExpressionsParser.htm) - A fast math expression parser. Doesn't allow calls to objects, no callstack.
-* From Frameworks:
-  * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
 
 ### Web tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,117 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,118 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/michaelneu/webxcel?style\&logo=github\&label) [webxcel](https://github.com/michaelneu/webxcel) ⭐ 464 | 🐛 12 | 🌐 Visual Basic | 📅 2019-10-05 - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style\&logo=github\&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) ⭐ 185 | 🐛 20 | 🌐 Visual Basic 6.0 | 📅 2025-10-06 - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style\&logo=github\&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) ⭐ 120 | 🐛 8 | 🌐 VBA | 📅 2025-12-30 - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/VBAChromeDevProtocol?style\&logo=github\&label) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) ⭐ 70 | 🐛 9 | 🌐 VBA | 📅 2023-01-18 - Automate Chrome using chrome devtools protocol.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style\&logo=github\&label) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation) ⭐ 35 | 🐛 0 | 🌐 Visual Basic 6.0 | 📅 2025-09-28.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/EagleAglow/vba-websocket-async?style\&logo=github\&label) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) ⭐ 25 | 🐛 1 | 🌐 VBA | 📅 2023-12-01 - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) ⭐ 9 | 🐛 1 | 🌐 VBA | 📅 2022-02-13 and an [async version](https://github.com/EagleAglow/vba-websocket-async) ⭐ 8 | 🐛 0 | 🌐 VBA | 📅 2025-11-25 built by the discoverer of the microsoft code.
-* From Frameworks:
+* From Library Collections:
   * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) In `stdVBA` find `stdHTTP` - Connect to and query web services.
 
 ## Developer tools
@@ -231,11 +235,11 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,286 | 🐛 512 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 55 | 🐛 10 | 🌐 VBA | 📅 2026-02-03 - Extension that adds VBA editor support to Visual Studio Code.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,288 | 🐛 512 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 55 | 🐛 10 | 🌐 VBA | 📅 2026-02-16 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 51 | 🐛 17 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 27 | 🐛 5 | 🌐 PowerShell | 📅 2026-02-01 - Github action to automatically build a VBA project on commit.
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 22 | 🐛 8 | 🌐 Python | 📅 2025-12-31 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35) ⭐ 558 | 🐛 16 | 📅 2026-01-31.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) ⭐ 22 | 🐛 8 | 🌐 Python | 📅 2025-12-31 - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2024-11-12 made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35) ⭐ 559 | 🐛 15 | 📅 2026-02-16.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_misc][a_misc]](#- "VBA planned but as of 2022-05-27 can only compile to exe") [twinBasic](https://twinbasic.com/) - A VBA compatible parser, evaluator and compiler.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![o\_paid][o_paid]](#- "Will be licensed") [![o\_dll][o_dll]](#- "Uses an external exe") [WinVBA](https://winvba.com/) - A modern IDE for Visual Basic for Applications (VBA) development.
 
