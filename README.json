@@ -472,10 +472,10 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-03-24T22:12:52Z",
+            "last_commit": "2026-03-26T15:05:29Z",
             "owner": "tarboh",
             "repo": "WebView2-For-Excel-VBA",
-            "stars": 12
+            "stars": 13
           }
         }
       ],
@@ -680,7 +680,7 @@
             "last_commit": "2026-03-19T09:25:32Z",
             "owner": "sancarn",
             "repo": "stdVBA-Inspiration",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -820,7 +820,7 @@
             "last_commit": "2026-01-02T00:31:34Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -833,7 +833,7 @@
             "last_commit": "2026-01-02T00:31:34Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-01-02T00:31:34Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -859,7 +859,7 @@
             "last_commit": "2026-01-02T00:31:34Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -872,7 +872,7 @@
             "last_commit": "2026-01-02T00:31:34Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2026-03-23T09:16:04Z",
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 13
+            "stars": 14
           }
         }
       ],
@@ -960,7 +960,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-03-25T07:52:23Z",
+            "last_commit": "2026-03-26T06:49:47Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 12
@@ -997,7 +997,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-03-23T08:46:28Z",
+            "last_commit": "2026-03-26T19:23:17Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 57
@@ -1013,7 +1013,7 @@
             "last_commit": "2025-06-18T04:00:35Z",
             "owner": "SSlinky",
             "repo": "VBA-LanguageServer",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:32:41.850Z",
+    "last_updated": "2026-03-27T04:33:33.863Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
