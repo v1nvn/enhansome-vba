@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-03-25T14:58:00Z",
+            "last_commit": "2026-04-02T00:17:46Z",
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 392
@@ -174,7 +174,7 @@
             "last_commit": "2023-04-17T02:57:07Z",
             "owner": "VBA-tools",
             "repo": "VBA-Dictionary",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2120
+            "stars": 2122
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3308
+            "stars": 3309
           }
         },
         {
@@ -1036,7 +1036,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-01T02:10:36Z",
+            "last_commit": "2026-04-02T02:36:51Z",
             "owner": "Beakerboy",
             "repo": "MS-OVBA",
             "stars": 24
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:46:43.341Z",
+    "last_updated": "2026-04-02T04:29:20.792Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
