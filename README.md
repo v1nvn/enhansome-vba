@@ -42,7 +42,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 395 | 🐛 44 | 🌐 VBA | 📅 2026-04-13 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 395 | 🐛 44 | 🌐 VBA | 📅 2026-04-18 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 133 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -96,7 +96,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Dictionary
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Dictionary?style\&logo=github\&label) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) ⭐ 404 | 🐛 18 | 🌐 VBA | 📅 2023-04-17 - A dictionary object which stores key-value pairs.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Dictionary?style\&logo=github\&label) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) ⭐ 405 | 🐛 18 | 🌐 VBA | 📅 2023-04-17 - A dictionary object which stores key-value pairs.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastDictionary?style\&logo=github\&label) [VBA-FastDictionary](https://github.com/cristianbuse/VBA-FastDictionary) ⭐ 65 | 🐛 2 | 🌐 VBA | 📅 2026-02-05 - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-ExtendedDictionary?style\&logo=github\&label) [VBA-ExtendedDictionary](https://github.com/SSlinky/VBA-ExtendedDictionary) ⭐ 21 | 🐛 0 | 🌐 VBA | 📅 2025-05-25 - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [cHashList](https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-\(no-APIs\)) - Simple, Fast and lightweight HashList class with no use of Win32 API. Requires string keys however.
@@ -164,7 +164,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Web tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,122 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style\&logo=github\&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) ⭐ 2,123 | 🐛 149 | 🌐 Visual Basic | 📅 2024-03-14 - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_xl][a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/michaelneu/webxcel?style\&logo=github\&label) [webxcel](https://github.com/michaelneu/webxcel) ⭐ 466 | 🐛 12 | 🌐 Visual Basic | 📅 2019-10-05 - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style\&logo=github\&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) ⭐ 188 | 🐛 20 | 🌐 Visual Basic 6.0 | 📅 2025-10-06 - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style\&logo=github\&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) ⭐ 126 | 🐛 5 | 🌐 VBA | 📅 2026-04-16 - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
@@ -271,7 +271,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### VB6 / VBScript
 
-* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 132 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
+* [Planet Source Code](https://github.com/Planet-Source-Code/PSCIndex) ⭐ 133 | 🐛 2 | 📅 2022-12-04 - A code repository GitHub which holds copious amounts of code. The site was closed down in 2023, but fortunately all VBA/VB6 samples were archived on GitHub today. Possibly not the entire collection (?) of projects/source code that was previously available at the PSC website.
 * [vbAccelerator Archive](https://github.com/tannerhelland/vbAccelerator-Archive) ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2018-07-20 - Archived copy of vbAccelerator site (articles, source code, etc.) that disappeared in 2015, reappeared in 2018, and anyone's guess what's going to next… Primarily VB6, but useful VBA resource.
 
 ### Websites
