@@ -472,10 +472,10 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-07T12:23:47Z",
+            "last_commit": "2026-05-09T04:03:29Z",
             "owner": "tarboh",
             "repo": "WebView2-For-Excel-VBA",
-            "stars": 16
+            "stars": 17
           }
         }
       ],
@@ -960,7 +960,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-05-08T03:21:01Z",
+            "last_commit": "2026-05-09T00:46:16Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 13
@@ -982,7 +982,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3329
+            "stars": 3330
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:52:50.866Z",
+    "last_updated": "2026-05-09T05:20:47.766Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
