@@ -706,7 +706,7 @@
             "last_commit": "2026-04-16T13:51:42Z",
             "owner": "GCuser99",
             "repo": "SeleniumVBA",
-            "stars": 129
+            "stars": 128
           }
         },
         {
@@ -960,10 +960,10 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-05-09T00:46:16Z",
+            "last_commit": "2026-05-10T18:10:15Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
-            "stars": 13
+            "stars": 12
           }
         }
       ],
@@ -982,7 +982,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3330
+            "stars": 3329
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "last_commit": "2022-12-04T13:35:46Z",
             "owner": "Planet-Source-Code",
             "repo": "PSCIndex",
-            "stars": 134
+            "stars": 133
           }
         },
         {
@@ -1104,7 +1104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:36:19.435Z",
+    "last_updated": "2026-05-11T05:57:33.274Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
