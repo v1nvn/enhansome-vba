@@ -646,6 +646,19 @@
         },
         {
           "children": [],
+          "description": "Native WebSocket, WSS, MQTT, and raw TCP client for VBA. Pure VBA, single-file, and zero dependencies.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-05-12T00:36:59Z",
+            "owner": "uesleibros",
+            "repo": "wasabi",
+            "stars": 41
+          }
+        },
+        {
+          "children": [],
           "description": "Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also  and an  built by the discoverer of the microsoft code.",
           "title": "",
           "repo_info": {
@@ -1104,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:57:33.274Z",
+    "last_updated": "2026-05-12T05:37:32.473Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
