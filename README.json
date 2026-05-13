@@ -651,10 +651,10 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-12T00:36:59Z",
+            "last_commit": "2026-05-12T11:03:53Z",
             "owner": "uesleibros",
             "repo": "wasabi",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -973,7 +973,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-05-10T18:10:15Z",
+            "last_commit": "2026-05-13T04:09:07Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 12
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-05-02T10:40:18Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1081,7 +1081,7 @@
             "last_commit": "2022-12-04T13:35:46Z",
             "owner": "Planet-Source-Code",
             "repo": "PSCIndex",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:37:32.473Z",
+    "last_updated": "2026-05-13T05:47:37.167Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
