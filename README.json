@@ -13,7 +13,7 @@
             "last_commit": "2026-04-24T17:17:34Z",
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -26,7 +26,7 @@
             "last_commit": "2024-10-20T23:36:45Z",
             "owner": "kellyethridge",
             "repo": "VBCorLib",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -651,7 +651,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-14T03:44:41Z",
+            "last_commit": "2026-05-14T22:48:19Z",
             "owner": "uesleibros",
             "repo": "wasabi",
             "stars": 44
@@ -693,7 +693,7 @@
             "last_commit": "2026-04-24T17:26:13Z",
             "owner": "sancarn",
             "repo": "stdVBA-Inspiration",
-            "stars": 37
+            "stars": 39
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2023-01-18T17:25:35Z",
             "owner": "PerditionC",
             "repo": "VBAChromeDevProtocol",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -833,7 +833,7 @@
             "last_commit": "2026-04-24T17:24:02Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-04-24T17:24:02Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -859,7 +859,7 @@
             "last_commit": "2026-04-24T17:24:02Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -872,7 +872,7 @@
             "last_commit": "2026-04-24T17:24:02Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2026-04-24T17:24:02Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-05-02T10:40:18Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:46:50.126Z",
+    "last_updated": "2026-05-15T05:53:45.823Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
