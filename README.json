@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-04-24T17:17:34Z",
+            "last_commit": "2026-05-15T11:38:31Z",
             "owner": "sancarn",
             "repo": "stdVBA",
             "stars": 400
@@ -256,6 +256,38 @@
       "items": [
         {
           "children": [],
+          "description": "Embedded DuckDB OLAP engine for Excel/VBA using the native DuckDB C API through a lightweight DLL bridge. No ODBC setup or external server required; supports fast DuckDB SQL analytics, dictionary lookups, Range/Array ingestion, Parquet/CSV/JSON workflows, DuckDB/SQLite/PostgreSQL connectivity, and Access-to-DuckDB migration.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2026-05-13T06:32:04Z",
+            "owner": "EtienneLenoir",
+            "repo": "duckdb-vba",
+            "stars": 5
+          }
+        },
+        {
+          "children": [],
+          "description": "An OOP SQL Library for psql, mssql, mysql databases.",
+          "title": "",
+          "repo_info": {
+            "archived": false,
+            "language": "VBA",
+            "last_commit": "2025-10-16T20:25:48Z",
+            "owner": "Beakerboy",
+            "repo": "VBA-SQL-Library",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Database tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see  post for more information.",
           "title": "",
           "repo_info": {
@@ -472,7 +504,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-13T11:39:50Z",
+            "last_commit": "2026-05-15T11:55:02Z",
             "owner": "tarboh",
             "repo": "WebView2-For-Excel-VBA",
             "stars": 17
@@ -651,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-14T22:48:19Z",
+            "last_commit": "2026-05-15T10:49:45Z",
             "owner": "uesleibros",
             "repo": "wasabi",
             "stars": 44
@@ -995,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3328
+            "stars": 3329
           }
         },
         {
@@ -1013,7 +1045,7 @@
             "last_commit": "2026-05-02T10:40:18Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -1117,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:53:45.823Z",
+    "last_updated": "2026-05-16T05:26:08.408Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
