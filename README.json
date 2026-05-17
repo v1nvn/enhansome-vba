@@ -683,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-15T10:49:45Z",
+            "last_commit": "2026-05-17T04:07:01Z",
             "owner": "uesleibros",
             "repo": "wasabi",
             "stars": 44
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3329
+            "stars": 3330
           }
         },
         {
@@ -1126,7 +1126,7 @@
             "last_commit": "2018-07-20T17:07:03Z",
             "owner": "tannerhelland",
             "repo": "vbAccelerator-Archive",
-            "stars": 95
+            "stars": 96
           }
         }
       ],
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:26:08.408Z",
+    "last_updated": "2026-05-17T05:47:29.922Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
