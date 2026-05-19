@@ -13,7 +13,7 @@
             "last_commit": "2026-05-15T11:38:31Z",
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 400
+            "stars": 401
           }
         },
         {
@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-17T23:28:33Z",
+            "last_commit": "2026-05-18T22:40:28Z",
             "owner": "ECP-Solutions",
             "repo": "ASF",
-            "stars": 40
+            "stars": 39
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-02-20T12:45:06Z",
             "owner": "jet2jet",
             "repo": "vb2clr",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-05-17T16:37:17Z",
             "owner": "uesleibros",
             "repo": "wasabi",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:12:43.828Z",
+    "last_updated": "2026-05-19T06:06:54.784Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
