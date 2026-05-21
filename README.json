@@ -60,7 +60,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-18T22:40:28Z",
+            "last_commit": "2026-05-21T00:27:58Z",
             "owner": "ECP-Solutions",
             "repo": "ASF",
             "stars": 40
@@ -673,7 +673,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -1005,7 +1005,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-05-19T09:20:32Z",
+            "last_commit": "2026-05-20T21:15:01Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 12
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3333
+            "stars": 3335
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:06:02.931Z",
+    "last_updated": "2026-05-21T06:09:04.372Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
