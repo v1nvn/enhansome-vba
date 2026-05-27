@@ -13,7 +13,7 @@
             "last_commit": "2026-05-15T11:38:31Z",
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2023-04-17T02:57:07Z",
             "owner": "VBA-tools",
             "repo": "VBA-Dictionary",
-            "stars": 406
+            "stars": 405
           }
         },
         {
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-22T10:48:40Z",
+            "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 33
@@ -875,7 +875,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-22T10:48:40Z",
+            "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 33
@@ -888,7 +888,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-22T10:48:40Z",
+            "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 33
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-22T10:48:40Z",
+            "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 33
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-22T10:48:40Z",
+            "last_commit": "2026-05-26T20:17:01Z",
             "owner": "sancarn",
             "repo": "stdVBA-examples",
             "stars": 33
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3339
+            "stars": 3341
           }
         },
         {
@@ -1042,7 +1042,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-02T10:40:18Z",
+            "last_commit": "2026-05-26T18:04:25Z",
             "owner": "serkonda7",
             "repo": "vscode-vba",
             "stars": 62
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:05:28.433Z",
+    "last_updated": "2026-05-27T06:19:30.731Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
