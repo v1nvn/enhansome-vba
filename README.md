@@ -42,7 +42,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 401 | 🐛 44 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 402 | 🐛 44 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 134 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
