@@ -13,7 +13,7 @@
             "last_commit": "2026-05-15T11:38:31Z",
             "owner": "sancarn",
             "repo": "stdVBA",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2023-04-17T02:57:07Z",
             "owner": "VBA-tools",
             "repo": "VBA-Dictionary",
-            "stars": 405
+            "stars": 404
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2022-01-28T09:26:56Z",
             "owner": "krishKM",
             "repo": "Modern-UI-Components-for-VBA",
-            "stars": 225
+            "stars": 224
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2022-10-27T16:09:35Z",
             "owner": "rubberduck-vba",
             "repo": "Battleship",
-            "stars": 90
+            "stars": 89
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3345
+            "stars": 3346
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:47:13.128Z",
+    "last_updated": "2026-05-31T06:17:27.865Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,

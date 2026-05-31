@@ -42,7 +42,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Library Collections
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 402 | 🐛 44 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-)  [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style\&logo=github\&label) [stdVBA](http://github.com/sancarn/stdVBA) ⭐ 401 | 🐛 44 | 🌐 VBA | 📅 2026-05-15 - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) [![o\_32][o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style\&logo=github\&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) ⭐ 134 | 🐛 22 | 🌐 Visual Basic 6.0 | 📅 2024-10-20 - A framework which brings many powerful .NET classes to VBA/VB6.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style\&logo=github\&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) ⭐ 26 | 🐛 1 | 🌐 VBA | 📅 2021-03-06 - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
@@ -96,7 +96,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Dictionary
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Dictionary?style\&logo=github\&label) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) ⭐ 405 | 🐛 18 | 🌐 VBA | 📅 2023-04-17 - A dictionary object which stores key-value pairs.
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Dictionary?style\&logo=github\&label) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) ⭐ 404 | 🐛 18 | 🌐 VBA | 📅 2023-04-17 - A dictionary object which stores key-value pairs.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastDictionary?style\&logo=github\&label) [VBA-FastDictionary](https://github.com/cristianbuse/VBA-FastDictionary) ⭐ 65 | 🐛 2 | 🌐 VBA | 📅 2026-02-05 - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-ExtendedDictionary?style\&logo=github\&label) [VBA-ExtendedDictionary](https://github.com/SSlinky/VBA-ExtendedDictionary) ⭐ 21 | 🐛 0 | 🌐 VBA | 📅 2025-05-25 - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) [![a\_all][a_all]](#-) [cHashList](https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-\(no-APIs\)) - Simple, Fast and lightweight HashList class with no use of Win32 API. Requires string keys however.
@@ -119,7 +119,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Userform tools
 
-* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/krishKM/Modern-UI-Components-for-VBA?style\&logo=github\&label) [![o\_dll][o_dll]](#- "Requires external DLLs") [Modern UI Components](https://github.com/krishKM/Modern-UI-Components-for-VBA) ⭐ 225 | 🐛 29 | 📅 2022-01-28 - Custom modern looking controls.
+* [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/krishKM/Modern-UI-Components-for-VBA?style\&logo=github\&label) [![o\_dll][o_dll]](#- "Requires external DLLs") [Modern UI Components](https://github.com/krishKM/Modern-UI-Components-for-VBA) ⭐ 224 | 🐛 29 | 📅 2022-01-28 - Custom modern looking controls.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-UserForm-MouseScroll?style\&logo=github\&label) [VBA-UserForm-MouseScroll](https://github.com/cristianbuse/VBA-UserForm-MouseScroll) ⭐ 106 | 🐛 1 | 🌐 VBA | 📅 2026-01-08 - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/MVVM?style\&logo=github\&label) [MVVM](https://github.com/rubberduck-vba/MVVM) ⚠️ Archived - Model-View-ViewModel Infrastructure for maintainable userform development.
 * [![p\_win][p_win]](#-) [![p\_nom][p_nom]](#-) [![a\_all][a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/cTaskDialog64?style\&logo=github\&label) [Task Dialog](https://github.com/fafalone/cTaskDialog64) ⭐ 46 | 🐛 3 | 🌐 Visual Basic 6.0 | 📅 2026-02-21 - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see [vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs) post for more information.
@@ -242,7 +242,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## External tools
 
-* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,345 | 🐛 513 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+* [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style\&logo=github\&label) [![a\_misc][a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) ⭐ 3,346 | 🐛 513 | 🌐 Python | 📅 2026-02-14 - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) ⭐ 62 | 🐛 10 | 🌐 VBA | 📅 2026-05-26 - Extension that adds VBA editor support to Visual Studio Code.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style\&logo=github\&label) [![a\_misc][a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer) ⭐ 55 | 🐛 20 | 🌐 TypeScript | 📅 2025-06-18.
 * [![p\_win][p_win]](#-) [![p\_mac][p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style\&logo=github\&label) [![a\_misc][a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) ⭐ 28 | 🐛 5 | 🌐 PowerShell | 📅 2026-05-22 - Github action to automatically build a VBA project on commit.
@@ -290,7 +290,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 * [![a\_ol][a_ol]](#-) [Slipstick](https://www.slipstick.com/) - Website of Diane Poremsky (MVP) with focus on Outlook and VBA.
 * [![a\_ol][a_ol]](#-) [TechnicLee](https://techniclee.wordpress.com/) - Outlook blog, many examples including code variations depending on user request.
 * [![a\_pp][a_pp]](#-) [PowerPoint VBA](https://pptvba.com/) - A site devoted to teaching VBA through making games in PowerPoint.
-* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 402 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
+* [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) ⭐ 403 | 🐛 4 | 📅 2023-04-12 - Massive archive of vb6/vba problems, solutions and tutorials.
 * [Sancarn's vba-articles](https://sancarn.github.io/vba-articles/) - Sancarn's articles on various topics related to VBA.
 * [![a\_ac][a_ac]](#-) [No Longer Set](https://nolongerset.com) - Access + VBA site of Microsoft MVP Mike Wolfe. Provides weekly updates on development of TwinBasic.
 * [![a\_ac][a_ac]](#-) [Isladogs on Access](https://isladogs.co.uk/) - Access + VBA site of Microsoft MVP Colin Riddington. Excellent resource with VBA projects in Access VBA.
