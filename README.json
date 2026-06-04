@@ -1005,7 +1005,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-05-30T03:22:31Z",
+            "last_commit": "2026-06-03T15:35:27Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 13
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T06:51:35.425Z",
+    "last_updated": "2026-06-04T06:41:27.708Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
