@@ -63,7 +63,7 @@
             "last_commit": "2026-05-21T00:27:58Z",
             "owner": "ECP-Solutions",
             "repo": "ASF",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-02-21T04:00:48Z",
             "owner": "fafalone",
             "repo": "cTaskDialog64",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3350
+            "stars": 3351
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:53:24.823Z",
+    "last_updated": "2026-06-07T06:22:58.086Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
