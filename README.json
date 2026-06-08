@@ -686,7 +686,7 @@
             "last_commit": "2026-06-01T00:39:21Z",
             "owner": "vbacollective",
             "repo": "wasabi",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:22:58.086Z",
+    "last_updated": "2026-06-08T06:42:13.306Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
