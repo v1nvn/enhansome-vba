@@ -174,7 +174,7 @@
             "last_commit": "2023-04-17T02:57:07Z",
             "owner": "VBA-tools",
             "repo": "VBA-Dictionary",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2128
+            "stars": 2129
           }
         },
         {
@@ -1005,7 +1005,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-06-09T00:38:31Z",
+            "last_commit": "2026-06-09T23:48:23Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 13
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3351
+            "stars": 3353
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T06:08:03.041Z",
+    "last_updated": "2026-06-10T06:23:00.457Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
