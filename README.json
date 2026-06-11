@@ -930,7 +930,7 @@
             "last_commit": "2026-03-23T09:16:04Z",
             "owner": "KallunWillock",
             "repo": "vbaXray",
-            "stars": 17
+            "stars": 18
           }
         }
       ],
@@ -1113,7 +1113,7 @@
             "last_commit": "2022-12-04T13:35:46Z",
             "owner": "Planet-Source-Code",
             "repo": "PSCIndex",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:23:00.457Z",
+    "last_updated": "2026-06-11T06:47:31.105Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
