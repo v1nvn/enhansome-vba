@@ -26,7 +26,7 @@
             "last_commit": "2024-10-20T23:36:45Z",
             "owner": "kellyethridge",
             "repo": "VBCorLib",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -261,7 +261,7 @@
           "repo_info": {
             "archived": false,
             "language": "VBA",
-            "last_commit": "2026-05-13T06:32:04Z",
+            "last_commit": "2026-06-11T22:58:33Z",
             "owner": "EtienneLenoir",
             "repo": "duckdb-vba",
             "stars": 5
@@ -348,7 +348,7 @@
             "last_commit": "2020-08-19T23:06:52Z",
             "owner": "todar",
             "repo": "VBA-Material-Design",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2022-01-28T09:26:56Z",
             "owner": "krishKM",
             "repo": "Modern-UI-Components-for-VBA",
-            "stars": 224
+            "stars": 226
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:47:31.105Z",
+    "last_updated": "2026-06-12T06:40:22.027Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
