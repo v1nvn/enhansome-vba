@@ -459,7 +459,7 @@
             "last_commit": "2026-01-08T16:47:17Z",
             "owner": "cristianbuse",
             "repo": "VBA-UserForm-MouseScroll",
-            "stars": 106
+            "stars": 105
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2024-03-14T10:17:52Z",
             "owner": "VBA-tools",
             "repo": "VBA-Web",
-            "stars": 2129
+            "stars": 2130
           }
         },
         {
@@ -1005,7 +1005,7 @@
           "repo_info": {
             "archived": false,
             "language": "Visual Basic 6.0",
-            "last_commit": "2026-06-09T23:48:23Z",
+            "last_commit": "2026-06-13T13:53:21Z",
             "owner": "M2000Interpreter",
             "repo": "Environment",
             "stars": 13
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-02-14T19:42:44Z",
             "owner": "decalage2",
             "repo": "oletools",
-            "stars": 3354
+            "stars": 3356
           }
         },
         {
@@ -1149,7 +1149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:15:29.915Z",
+    "last_updated": "2026-06-14T06:38:34.189Z",
     "original_repository": "sancarn/awesome-vba",
     "source_repository": "v1nvn/enhansome-vba",
     "source_repository_description": null,
